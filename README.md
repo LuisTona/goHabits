@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# goHabits
+=======
+>>>>>>> 8314975 (first commit)
 # goHabits
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,3 +43,7 @@ npm run build
 ```sh
 npm run lint
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> 7290611 (first commit)
+>>>>>>> 8314975 (first commit)
